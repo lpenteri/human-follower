@@ -1,0 +1,12 @@
+language: python
+version: 0.1.0
+
+platform:
+  - target: ubuntu
+    version: 14.04
+    arch: i686
+
+api: 0.6.0
+
+package:
+  - follow_human.py
